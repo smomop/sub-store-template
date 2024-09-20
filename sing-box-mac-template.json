@@ -228,9 +228,7 @@
     {
       "tag": "✈️ 手动切换",
       "type": "selector",
-      "outbounds": [
-        "♻ 自动选择"
-      ],
+      "outbounds": ["♻ 自动选择"],
       "default": "♻ 自动选择"
     },
     {
