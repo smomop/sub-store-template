@@ -1,6 +1,6 @@
 const { type, name } = $arguments
 const compatible_outbound = {
-  tag: 'COMPATIBLE',
+  tag: '兼容',
   type: 'direct',
 }
 
